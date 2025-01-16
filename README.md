@@ -36,10 +36,10 @@ math-solutions/
 
 
 ### Topics
-- **`All of Statistics/`**: Solutions for the book `All of Statistics`
+- **`All of Statistics/`**: Solutions for the book `All of Statistics` written by Larry Wasserman
 
 ### Example Solution Format
-Each solution is written in Markdown format and typically includes:
+Each solution is written in latex format and typically includes:
 - **Problem Statement**
 - **Solution Step-by-Step**
 - **Mathematical Formulas**
