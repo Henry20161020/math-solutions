@@ -28,7 +28,7 @@ math-solutions/
 ├── topics/
 │   ├── Matrix Analysis/   # Linear Algebra problems and solutions
 │   ├── All of Statistics/       # Probability and Statistics solutions
-│   │   ├── Chapter 1 Probability.md
+│   │   ├── Solutions.pdf
 ├── resources/            # Helpful learning resources
 │   ├── reference_books.md
 │   ├── useful_links.md
